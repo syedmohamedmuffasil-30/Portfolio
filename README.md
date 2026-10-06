@@ -1,11 +1,36 @@
-<div align="center">
+# Syed Mohamed Muffasil S U — Portfolio Website
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A personal portfolio website and interactive ML project showcase for **Syed Mohamed Muffasil S U** (Computer Science Freshman & Machine Learning Enthusiast).
 
-  <h1>Built with AI Studio</h2>
+## Key Features
+- **Modern Responsive Design**: Built with React 19, TypeScript, Vite, and Tailwind CSS.
+- **Interactive Web-based AutoML Platform**: In-browser simulator demonstrating automated preprocessing, model selection, hyperparameter tuning, and model deployment.
+- **Prompt Engineering & Vibe Coding Studio**: Interactive workbench testing prompt architectures and code generation templates.
+- **Photo Customization**: In-browser photo uploader with local device upload, preset picker, and persistent storage.
+- **Skills & Language Proficiency**: Categorized competencies and visual fluency indicators.
+- **Education & Credentials**: SNS College of Technology, IBM AI Fundamentals, and Databricks Intro to ML.
+- **Curriculum Vitae**: Clean, printable resume view with 1-click Print/Save as PDF.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Getting Started
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+### Prerequisites
+- Node.js (version 18 or higher)
+- npm or bun
 
-</div>
+### Installation
+```bash
+# Install dependencies
+npm install
+
+# Start local development server
+npm run dev
+```
+
+### Production Build
+```bash
+# Build for production
+npm run build
+
+# Preview production build locally
+npm run preview
+```
